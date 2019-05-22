@@ -1,6 +1,5 @@
 function [A] = part_b(printing)
 %{
-header: hw4@EE519, answer for Part I (b)  
 Copyright: Zixi Liu, USCID: 2219403275, Email: zixiliu@usc.edu
 Disctiption: function part_b(printing) is used to obtain the framing signal
 from free-spoken-digit-dataset-master\recordings fold. 
