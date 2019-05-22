@@ -1,6 +1,5 @@
 function [A] = Packing_data(printing)
 %{
-header: hw4@EE519, answer for Part I (b)  
 Copyright: Zixi Liu, USCID: 2219403275, Email: zixiliu@usc.edu
 Disctiption: function Packing_data(printing) is used to obtain the framing signal
 from free-spoken-digit-dataset-master\recordings fold. 
