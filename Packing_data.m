@@ -1,4 +1,4 @@
-function [A] = part_b(printing)
+function [A] = Packing_data(printing)
 %{
 Copyright: Zixi Liu, USCID: 2219403275, Email: zixiliu@usc.edu
 Disctiption: function part_b(printing) is used to obtain the framing signal
