@@ -1,6 +1,5 @@
 function y = hamming_length( l,fs )
 %{
-header: hw2@EE519, answer for question 5
 Copyright: Zixi Liu, USCID: 2219403275, Email: zixiliu@usc.edu
 Disctiption: function hamming_length(l,fs) is used to create hamming window 
 according to the sampling rate fs, and the time length l in msec. It will return 

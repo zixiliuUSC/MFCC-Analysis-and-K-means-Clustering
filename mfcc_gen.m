@@ -1,7 +1,6 @@
 function [ E_dct ] = mfcc_gen( filterbank, frame )
 %{
-header: hw4@EE519, answer for Part 2 (b), mfcc generator 
-Copyright: Zixi Liu, USCID: 2219403275, Email: zixiliu@usc.edu
+Copyright: Zixi Liu, Email: zixiliu@usc.edu
 Disctiption: function mfcc_gen( filterbank, frame ) is used to generate
 MFCC of a specific frame. This function is specialized for homework 4. For
 further use, you should change the length of DFT to fit your application.

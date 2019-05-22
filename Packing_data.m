@@ -1,8 +1,8 @@
-function [A] = part_b(printing)
+function [A] = Packing_data(printing)
 %{
 header: hw4@EE519, answer for Part I (b)  
 Copyright: Zixi Liu, USCID: 2219403275, Email: zixiliu@usc.edu
-Disctiption: function part_b(printing) is used to obtain the framing signal
+Disctiption: function Packing_data(printing) is used to obtain the framing signal
 from free-spoken-digit-dataset-master\recordings fold. 
 **printing is a sign to decide if printing the outcome on the console or not 
 choosing 1 to print.
